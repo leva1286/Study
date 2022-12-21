@@ -1,0 +1,20 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "Study"
+include ':coordinatorlayout_24_1'
+include ':connectingrecyclerview_23_2'
+include ':practical_task_23_2'
+include ':item_animator_23_3'
+include ':item_decoration_23_3'

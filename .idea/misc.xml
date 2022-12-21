@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Study/connectingrecyclerview_23_2/src/main/res/layout/activity_main.xml" value="0.35688405797101447" />
+        <entry key="..\:/Study/item_animator_23_3/src/main/res/drawable/ic_apple.xml" value="0.208" />
+        <entry key="..\:/Study/item_animator_23_3/src/main/res/drawable/ic_banana.xml" value="0.208" />
+        <entry key="..\:/Study/item_animator_23_3/src/main/res/drawable/ic_lemon.xml" value="0.208" />
+        <entry key="..\:/Study/item_animator_23_3/src/main/res/drawable/ic_orange.xml" value="0.208" />
+        <entry key="..\:/Study/item_animator_23_3/src/main/res/drawable/ic_pear.xml" value="0.208" />
+        <entry key="..\:/Study/item_animator_23_3/src/main/res/drawable/ic_strawberry.xml" value="0.208" />
+        <entry key="..\:/Study/item_animator_23_3/src/main/res/layout/activity_main.xml" value="0.35688405797101447" />
+        <entry key="..\:/Study/item_animator_23_3/src/main/res/layout/item.xml" value="0.2691256830601093" />
+        <entry key="..\:/Study/item_decoration_23_3/src/main/res/layout/activity_main.xml" value="0.35688405797101447" />
+        <entry key="..\:/Study/practical_task_23_2/src/main/res/layout/activity_main.xml" value="0.35688405797101447" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
