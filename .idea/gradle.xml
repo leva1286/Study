@@ -9,11 +9,16 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/connectingrecyclerview_23_2" />
-            <option value="$PROJECT_DIR$/coordinatorlayout_24_1" />
-            <option value="$PROJECT_DIR$/item_animator_23_3" />
-            <option value="$PROJECT_DIR$/item_decoration_23_3" />
-            <option value="$PROJECT_DIR$/practical_task_23_2" />
+            <option value="$PROJECT_DIR$/m23_2_connecting_recyclerview" />
+            <option value="$PROJECT_DIR$/m23_2_practical_task" />
+            <option value="$PROJECT_DIR$/m23_3_item_animator" />
+            <option value="$PROJECT_DIR$/m23_3_item_decoration" />
+            <option value="$PROJECT_DIR$/m23_4_diffutil" />
+            <option value="$PROJECT_DIR$/m23_5_adapter_delegate" />
+            <option value="$PROJECT_DIR$/m23_6_scroll" />
+            <option value="$PROJECT_DIR$/m23_8_snaphelper" />
+            <option value="$PROJECT_DIR$/m23_8_swipe_drag_and_drop" />
+            <option value="$PROJECT_DIR$/m24_1_coordinatorlayout" />
           </set>
         </option>
       </GradleProjectSettings>

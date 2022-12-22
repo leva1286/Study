@@ -3,7 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Study/adapter_delegate23_5/src/main/res/drawable/ic_apple.xml" value="0.356" />
+        <entry key="..\:/Study/adapter_delegate23_5/src/main/res/layout/activity_main.xml" value="0.35688405797101447" />
+        <entry key="..\:/Study/adapter_delegate23_5/src/main/res/layout/item.xml" value="0.35688405797101447" />
+        <entry key="..\:/Study/adapter_delegate23_5/src/main/res/layout/item_ad.xml" value="0.35688405797101447" />
         <entry key="..\:/Study/connectingrecyclerview_23_2/src/main/res/layout/activity_main.xml" value="0.35688405797101447" />
+        <entry key="..\:/Study/diffutil_23_4/src/main/res/drawable/ic_strawberry.xml" value="0.356" />
+        <entry key="..\:/Study/diffutil_23_4/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Study/diffutil_23_4/src/main/res/layout/item.xml" value="0.35688405797101447" />
         <entry key="..\:/Study/item_animator_23_3/src/main/res/drawable/ic_apple.xml" value="0.208" />
         <entry key="..\:/Study/item_animator_23_3/src/main/res/drawable/ic_banana.xml" value="0.208" />
         <entry key="..\:/Study/item_animator_23_3/src/main/res/drawable/ic_lemon.xml" value="0.208" />
@@ -13,7 +20,19 @@
         <entry key="..\:/Study/item_animator_23_3/src/main/res/layout/activity_main.xml" value="0.35688405797101447" />
         <entry key="..\:/Study/item_animator_23_3/src/main/res/layout/item.xml" value="0.2691256830601093" />
         <entry key="..\:/Study/item_decoration_23_3/src/main/res/layout/activity_main.xml" value="0.35688405797101447" />
+        <entry key="..\:/Study/m23_8_snaphelper/src/main/res/drawable/ic_apple.xml" value="0.3105" />
+        <entry key="..\:/Study/m23_8_snaphelper/src/main/res/layout/activity_main.xml" value="0.35688405797101447" />
+        <entry key="..\:/Study/m23_8_snaphelper/src/main/res/layout/item.xml" value="0.35688405797101447" />
+        <entry key="..\:/Study/m23_8_swipe_drag_and_drop/src/main/res/drawable/fon.xml" value="0.356" />
+        <entry key="..\:/Study/m23_8_swipe_drag_and_drop/src/main/res/layout/activity_main.xml" value="0.35688405797101447" />
+        <entry key="..\:/Study/m23_8_swipe_drag_and_drop/src/main/res/layout/item.xml" value="0.35688405797101447" />
         <entry key="..\:/Study/practical_task_23_2/src/main/res/layout/activity_main.xml" value="0.35688405797101447" />
+        <entry key="..\:/Study/scroll_23_6/src/main/res/drawable/fon.xml" value="0.356" />
+        <entry key="..\:/Study/scroll_23_6/src/main/res/drawable/ic_orange.xml" value="0.356" />
+        <entry key="..\:/Study/scroll_23_6/src/main/res/drawable/icon_save.xml" value="0.356" />
+        <entry key="..\:/Study/scroll_23_6/src/main/res/drawable/icon_up.xml" value="0.356" />
+        <entry key="..\:/Study/scroll_23_6/src/main/res/layout/activity_main.xml" value="0.35688405797101447" />
+        <entry key="..\:/Study/scroll_23_6/src/main/res/layout/item.xml" value="0.35688405797101447" />
       </map>
     </option>
   </component>

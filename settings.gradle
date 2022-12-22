@@ -13,8 +13,13 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "Study"
-include ':coordinatorlayout_24_1'
-include ':connectingrecyclerview_23_2'
-include ':practical_task_23_2'
-include ':item_animator_23_3'
-include ':item_decoration_23_3'
+include ':m24_1_coordinatorlayout'
+include ':m23_2_connecting_recyclerview'
+include ':m23_2_practical_task'
+include ':m23_3_item_animator'
+include ':m23_3_item_decoration'
+include ':m23_4_diffutil'
+include ':m23_5_adapter_delegate'
+include ':m23_6_scroll'
+include ':m23_8_swipe_drag_and_drop'
+include ':m23_8_snaphelper'
