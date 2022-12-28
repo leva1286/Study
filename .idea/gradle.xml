@@ -20,6 +20,9 @@
             <option value="$PROJECT_DIR$/m23_8_snaphelper" />
             <option value="$PROJECT_DIR$/m23_8_swipe_drag_and_drop" />
             <option value="$PROJECT_DIR$/m24_1_coordinatorlayout" />
+            <option value="$PROJECT_DIR$/m24_4_collapsing_toolbar_layout" />
+            <option value="$PROJECT_DIR$/m24_4_hide_bottom_view_behaviour" />
+            <option value="$PROJECT_DIR$/m24_5_bottom_sheet" />
           </set>
         </option>
       </GradleProjectSettings>
