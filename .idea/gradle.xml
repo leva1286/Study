@@ -23,6 +23,9 @@
             <option value="$PROJECT_DIR$/m24_4_collapsing_toolbar_layout" />
             <option value="$PROJECT_DIR$/m24_4_hide_bottom_view_behaviour" />
             <option value="$PROJECT_DIR$/m24_5_bottom_sheet" />
+            <option value="$PROJECT_DIR$/m25_2_saving_state" />
+            <option value="$PROJECT_DIR$/m25_3_application_class" />
+            <option value="$PROJECT_DIR$/m25_4_fragment" />
           </set>
         </option>
       </GradleProjectSettings>

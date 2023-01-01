@@ -64,7 +64,7 @@ class MainActivity : AppCompatActivity() {
             return itemIndex.text.toString().toInt()
         }
 
-        // мотод отвечающий за обновление данных через DiffUtil
+        // метод отвечающий за обновление данных через DiffUtil
         fun updateDate(newList: List<Product>) {
             val oldList = adapter.data
             val productDiff = ProductDiff(oldList, newList)
