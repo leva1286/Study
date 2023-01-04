@@ -26,6 +26,8 @@
             <option value="$PROJECT_DIR$/m25_2_saving_state" />
             <option value="$PROJECT_DIR$/m25_3_application_class" />
             <option value="$PROJECT_DIR$/m25_4_fragment" />
+            <option value="$PROJECT_DIR$/m25_5_create_fragment_in_code_and_transactions_between_them" />
+            <option value="$PROJECT_DIR$/m25_6_dialog" />
           </set>
         </option>
       </GradleProjectSettings>
